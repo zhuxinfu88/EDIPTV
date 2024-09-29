@@ -52,6 +52,7 @@ gzly.hkychina.com:6002
 gzly.hkychina.com:6003
 www.011.my.zhoujie218.top:8888
 www.adg.my.zhoujie218.top:8888
+www.lizhinas.top:8688
 www.pix.my.zhoujie218.top:8888
 www.xy.my.zhoujie218.top:8888
 xy.my.zhoujie218.top:8888
