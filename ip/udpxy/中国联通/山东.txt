@@ -18,3 +18,4 @@
 39.89.162.217:10000
 39.89.18.100:4022
 aa.liuxuserver.cn:1025
+annaxi.lw-home.com:11111
