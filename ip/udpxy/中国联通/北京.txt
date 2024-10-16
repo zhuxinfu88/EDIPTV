@@ -202,6 +202,7 @@
 61.149.134.13:8182
 61.149.135.33:8182
 61.49.76.215:5555
+buffaloft.ignorelist.com:8888
 cn.zzmd.fun:8888
 coolcat.synology.me:4022
 drive.mxmy.net:8888
